@@ -1,0 +1,155 @@
+{
+  "components": [
+    {
+      "type": "image",
+      "cells": [
+        {
+          "imageUrl": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg",
+          "name": "Example 4",
+          "description": "This is a fourth example",
+          "dmartValue": 467,
+          "saveValue": 119,
+          "mrpValue": 348,
+          "productType": "house",
+          "veg": false
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "cells": [
+        {
+          "imageUrl": "https://cdn.dmart.in/images/products/JUN210000020xx29JUN22_5_P.jpg",
+          "name": "Pampers Aloe Vera Baby Wipes : 72 Wipes",
+          "description": "This is an example",
+          "dmartValue": 467,
+          "saveValue": 119,
+          "mrpValue": 348,
+          "productType": "house",
+          "veg": false
+        },
+        {
+          "imageUrl": "https://cdn.dmart.in/images/products/FEB210000569xx27FEB22_5_P.jpg",
+          "name": "Himalaya Gentle Baby Soap : 4x75 gms",
+          "value": "20",
+          "description": "This is another example",
+          "dmartValue": 467,
+          "saveValue": 119,
+          "mrpValue": 348,
+          "productType": "house",
+          "veg": false
+        },
+        {
+          "imageUrl": "https://cdn.dmart.in/images/products/ISoaps75gm4773xx290720_5_P.jpg",
+          "name": "Johnson's Baby Shampoo : 500 ml",
+          "description": "This is a third example",
+          "dmartValue": 467,
+          "saveValue": 119,
+          "mrpValue": 348,
+          "productType": "house",
+          "veg": false
+        },
+        {
+          "imageUrl": "https://cdn.dmart.in/images/products/MAR210000196xx19MAR23_5_P.jpg",
+          "name": "Pampers All-Round Protection Pants - Medium (M) : 44 U",
+          "description": "This is a fourth example",
+          "dmartValue": 467,
+          "saveValue": 119,
+          "mrpValue": 348,
+          "productType": "house",
+          "veg": false
+        },
+        {
+          "imageUrl": "https://cdn.dmart.in/images/products/FEB210000567xx27FEB22_5_P.jpg",
+          "name": "Cetaphil Baby Gentle Wash & Shampoo : 230 ml",
+          "description": "This is an example",
+          "dmartValue": 467,
+          "saveValue": 119,
+          "mrpValue": 348,
+          "productType": "house",
+          "veg": false
+        },
+        {
+          "imageUrl": "https://cdn.dmart.in/images/products/MAY210000071xx28MAY22_5_P.jpg",
+          "name": "Himalaya Baby Lotion : 400 ml",
+          "description": "This is another example",
+          "dmartValue": 467,
+          "saveValue": 119,
+          "mrpValue": 348,
+          "productType": "house",
+          "veg": false
+        },
+        {
+          "imageUrl": "https://cdn.dmart.in/images/products/OCT210000261xx3OCT21_5_P.jpg",
+          "name": "Cuddles Premium Pants - Small : 20 Unit",
+          "description": "This is a third example",
+          "dmartValue": 467,
+          "saveValue": 119,
+          "mrpValue": 348,
+          "productType": "house",
+          "veg": false
+        },
+        {
+          "imageUrl": "https://cdn.dmart.in/images/products/MAR210000372xx26MAR23_4_P.jpg",
+          "name": "Johnson's Baby Lotion : 500 ml",
+          "description": "This is a fourth example",
+          "dmartValue": 467,
+          "saveValue": 119,
+          "mrpValue": 348,
+          "productType": "house",
+          "veg": false
+        },
+        {
+          "imageUrl": "https://cdn.dmart.in/images/products/FEB210000567xx27FEB22_5_P.jpg",
+          "name": "Cetaphil Baby Gentle Wash & Shampoo : 230 ml",
+          "description": "This is an example",
+          "dmartValue": 467,
+          "saveValue": 119,
+          "mrpValue": 348,
+          "productType": "house",
+          "veg": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "cells": [
+        {
+          "imageUrl": "https://cdn.dmart.in/images/products/NOV110000379xx20NOV21_5_I.jpg",
+          "name": "Premia Sugar : 5 kgs",
+          "description": "This is an example",
+          "dmartValue": 220,
+          "saveValue": 44,
+          "mrpValue": 264,
+          "productType": "house",
+          "veg": true
+        },
+        {
+          "imageUrl": "https://cdn.dmart.in/images/rwd/misc/NoImage_P.jpg",
+          "name": "Himalaya Baby Lotion : 400 ml",
+          "description": "This is another example",
+          "dmartValue": 467,
+          "saveValue": 119,
+          "mrpValue": 348,
+          "productType": "house",
+          "veg": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "cells": [
+        {
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoTt00SKrkY7tZdjpL7lF2LOBCghiTiwhPDQ&usqp=CAU",
+          "name": "Example 1",
+          "description": "This is an example",
+          "dmartValue": 467,
+          "saveValue": 119,
+          "mrpValue": 348,
+          "productType": "house",
+          "veg": false
+        }
+      ]
+    }
+  ]
+}
