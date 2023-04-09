@@ -7,23 +7,59 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		887DF4A029DF0B0B0004BF72 /* data.json in Resources */ = {isa = PBXBuildFile; fileRef = 88CDC76629DC87AD00F2FACF /* data.json */; };
+		887DF4A329DFB2440004BF72 /* GridCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 887DF4A129DFB2440004BF72 /* GridCell.swift */; };
+		887DF4A429DFB2440004BF72 /* GridCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 887DF4A229DFB2440004BF72 /* GridCell.xib */; };
+		887DF4A829DFB3CD0004BF72 /* ListCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 887DF4A629DFB3CD0004BF72 /* ListCell.swift */; };
+		887DF4A929DFB3CD0004BF72 /* ListCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 887DF4A729DFB3CD0004BF72 /* ListCell.xib */; };
 		88CDC74629DC51B500F2FACF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88CDC74529DC51B500F2FACF /* AppDelegate.swift */; };
 		88CDC74829DC51B600F2FACF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88CDC74729DC51B600F2FACF /* SceneDelegate.swift */; };
-		88CDC74A29DC51B600F2FACF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88CDC74929DC51B600F2FACF /* ViewController.swift */; };
 		88CDC74D29DC51B600F2FACF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 88CDC74B29DC51B600F2FACF /* Main.storyboard */; };
 		88CDC74F29DC51B800F2FACF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 88CDC74E29DC51B800F2FACF /* Assets.xcassets */; };
 		88CDC75229DC51B800F2FACF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 88CDC75029DC51B800F2FACF /* LaunchScreen.storyboard */; };
+		88CDC75C29DC530500F2FACF /* Component.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88CDC75B29DC530500F2FACF /* Component.swift */; };
+		88CDC75E29DC590800F2FACF /* CustomImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88CDC75D29DC590800F2FACF /* CustomImageView.swift */; };
+		88CDC76529DC876500F2FACF /* HomeScreenController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88CDC76429DC876500F2FACF /* HomeScreenController.swift */; };
+		88CDC76E29DC8A5D00F2FACF /* ImageCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88CDC76C29DC8A5D00F2FACF /* ImageCell.swift */; };
+		88CDC77729DCA4D700F2FACF /* ImageCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 88CDC77629DCA4D600F2FACF /* ImageCell.xib */; };
+		88CDC78629DDF3FB00F2FACF /* CustomTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88CDC78529DDF3FB00F2FACF /* CustomTableView.swift */; };
+		88DA2C5929E1709600C4A315 /* DmartGreenButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88DA2C5829E1709600C4A315 /* DmartGreenButton.swift */; };
+		88DA2C5B29E174D000C4A315 /* UIColor+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88DA2C5A29E174D000C4A315 /* UIColor+Extension.swift */; };
+		88DA2C5D29E1755100C4A315 /* DmartColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88DA2C5C29E1755100C4A315 /* DmartColors.swift */; };
+		88DA2C5F29E17EAD00C4A315 /* DropDownView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88DA2C5E29E17EAD00C4A315 /* DropDownView.swift */; };
+		88DA2C6129E190FD00C4A315 /* UIView+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88DA2C6029E190FD00C4A315 /* UIView+Extension.swift */; };
+		88DA2C6329E1968100C4A315 /* BrandedUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88DA2C6229E1968100C4A315 /* BrandedUIView.swift */; };
+		88DA2C6529E1C11400C4A315 /* String+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88DA2C6429E1C11400C4A315 /* String+Extension.swift */; };
+		88DA2C6729E1C18B00C4A315 /* Int+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88DA2C6629E1C18B00C4A315 /* Int+Extension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		887DF4A129DFB2440004BF72 /* GridCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridCell.swift; sourceTree = "<group>"; };
+		887DF4A229DFB2440004BF72 /* GridCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = GridCell.xib; sourceTree = "<group>"; };
+		887DF4A629DFB3CD0004BF72 /* ListCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListCell.swift; sourceTree = "<group>"; };
+		887DF4A729DFB3CD0004BF72 /* ListCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ListCell.xib; sourceTree = "<group>"; };
 		88CDC74229DC51B500F2FACF /* Project2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Project2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		88CDC74529DC51B500F2FACF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		88CDC74729DC51B600F2FACF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		88CDC74929DC51B600F2FACF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		88CDC74C29DC51B600F2FACF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		88CDC74E29DC51B800F2FACF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		88CDC75129DC51B800F2FACF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		88CDC75329DC51B800F2FACF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		88CDC75B29DC530500F2FACF /* Component.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Component.swift; sourceTree = "<group>"; };
+		88CDC75D29DC590800F2FACF /* CustomImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomImageView.swift; sourceTree = "<group>"; };
+		88CDC76429DC876500F2FACF /* HomeScreenController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeScreenController.swift; sourceTree = "<group>"; };
+		88CDC76629DC87AD00F2FACF /* data.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = data.json; sourceTree = "<group>"; };
+		88CDC76C29DC8A5D00F2FACF /* ImageCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageCell.swift; sourceTree = "<group>"; };
+		88CDC77629DCA4D600F2FACF /* ImageCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ImageCell.xib; sourceTree = "<group>"; };
+		88CDC78529DDF3FB00F2FACF /* CustomTableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTableView.swift; sourceTree = "<group>"; };
+		88DA2C5829E1709600C4A315 /* DmartGreenButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DmartGreenButton.swift; sourceTree = "<group>"; };
+		88DA2C5A29E174D000C4A315 /* UIColor+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor+Extension.swift"; sourceTree = "<group>"; };
+		88DA2C5C29E1755100C4A315 /* DmartColors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DmartColors.swift; sourceTree = "<group>"; };
+		88DA2C5E29E17EAD00C4A315 /* DropDownView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DropDownView.swift; sourceTree = "<group>"; };
+		88DA2C6029E190FD00C4A315 /* UIView+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Extension.swift"; sourceTree = "<group>"; };
+		88DA2C6229E1968100C4A315 /* BrandedUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrandedUIView.swift; sourceTree = "<group>"; };
+		88DA2C6429E1C11400C4A315 /* String+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String+Extension.swift"; sourceTree = "<group>"; };
+		88DA2C6629E1C18B00C4A315 /* Int+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Int+Extension.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +73,19 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		887DF4A529DFB3A90004BF72 /* Inner Cell */ = {
+			isa = PBXGroup;
+			children = (
+				88CDC76C29DC8A5D00F2FACF /* ImageCell.swift */,
+				88CDC77629DCA4D600F2FACF /* ImageCell.xib */,
+				887DF4A129DFB2440004BF72 /* GridCell.swift */,
+				887DF4A229DFB2440004BF72 /* GridCell.xib */,
+				887DF4A629DFB3CD0004BF72 /* ListCell.swift */,
+				887DF4A729DFB3CD0004BF72 /* ListCell.xib */,
+			);
+			path = "Inner Cell";
+			sourceTree = "<group>";
+		};
 		88CDC73929DC51B500F2FACF = {
 			isa = PBXGroup;
 			children = (
@@ -56,15 +105,76 @@
 		88CDC74429DC51B500F2FACF /* Project2 */ = {
 			isa = PBXGroup;
 			children = (
-				88CDC74529DC51B500F2FACF /* AppDelegate.swift */,
-				88CDC74729DC51B600F2FACF /* SceneDelegate.swift */,
-				88CDC74929DC51B600F2FACF /* ViewController.swift */,
-				88CDC74B29DC51B600F2FACF /* Main.storyboard */,
-				88CDC74E29DC51B800F2FACF /* Assets.xcassets */,
-				88CDC75029DC51B800F2FACF /* LaunchScreen.storyboard */,
+				88DA2C5329E16E8C00C4A315 /* Controllers */,
+				88DA2C5429E16E9E00C4A315 /* Model */,
+				88DA2C5629E16EDA00C4A315 /* Views */,
+				88DA2C5529E16EB000C4A315 /* Helpers */,
+				88CDC75F29DC65F400F2FACF /* Resources */,
 				88CDC75329DC51B800F2FACF /* Info.plist */,
 			);
 			path = Project2;
+			sourceTree = "<group>";
+		};
+		88CDC75F29DC65F400F2FACF /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				88CDC76629DC87AD00F2FACF /* data.json */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		88CDC77829DD764100F2FACF /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				887DF4A529DFB3A90004BF72 /* Inner Cell */,
+			);
+			path = Cells;
+			sourceTree = "<group>";
+		};
+		88DA2C5329E16E8C00C4A315 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				88CDC74529DC51B500F2FACF /* AppDelegate.swift */,
+				88CDC74729DC51B600F2FACF /* SceneDelegate.swift */,
+				88CDC76429DC876500F2FACF /* HomeScreenController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		88DA2C5429E16E9E00C4A315 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				88CDC75B29DC530500F2FACF /* Component.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		88DA2C5529E16EB000C4A315 /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				88DA2C5A29E174D000C4A315 /* UIColor+Extension.swift */,
+				88CDC78529DDF3FB00F2FACF /* CustomTableView.swift */,
+				88CDC75D29DC590800F2FACF /* CustomImageView.swift */,
+				88DA2C5829E1709600C4A315 /* DmartGreenButton.swift */,
+				88DA2C5C29E1755100C4A315 /* DmartColors.swift */,
+				88DA2C5E29E17EAD00C4A315 /* DropDownView.swift */,
+				88DA2C6029E190FD00C4A315 /* UIView+Extension.swift */,
+				88DA2C6229E1968100C4A315 /* BrandedUIView.swift */,
+				88DA2C6429E1C11400C4A315 /* String+Extension.swift */,
+				88DA2C6629E1C18B00C4A315 /* Int+Extension.swift */,
+			);
+			path = Helpers;
+			sourceTree = "<group>";
+		};
+		88DA2C5629E16EDA00C4A315 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				88CDC74B29DC51B600F2FACF /* Main.storyboard */,
+				88CDC75029DC51B800F2FACF /* LaunchScreen.storyboard */,
+				88CDC74E29DC51B800F2FACF /* Assets.xcassets */,
+				88CDC77829DD764100F2FACF /* Cells */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -127,7 +237,11 @@
 			files = (
 				88CDC75229DC51B800F2FACF /* LaunchScreen.storyboard in Resources */,
 				88CDC74F29DC51B800F2FACF /* Assets.xcassets in Resources */,
+				887DF4A029DF0B0B0004BF72 /* data.json in Resources */,
+				887DF4A429DFB2440004BF72 /* GridCell.xib in Resources */,
+				88CDC77729DCA4D700F2FACF /* ImageCell.xib in Resources */,
 				88CDC74D29DC51B600F2FACF /* Main.storyboard in Resources */,
+				887DF4A929DFB3CD0004BF72 /* ListCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,9 +252,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				88CDC74A29DC51B600F2FACF /* ViewController.swift in Sources */,
+				88CDC75E29DC590800F2FACF /* CustomImageView.swift in Sources */,
+				88CDC76529DC876500F2FACF /* HomeScreenController.swift in Sources */,
+				88CDC78629DDF3FB00F2FACF /* CustomTableView.swift in Sources */,
+				88DA2C6729E1C18B00C4A315 /* Int+Extension.swift in Sources */,
+				88DA2C5929E1709600C4A315 /* DmartGreenButton.swift in Sources */,
+				887DF4A829DFB3CD0004BF72 /* ListCell.swift in Sources */,
+				88DA2C5F29E17EAD00C4A315 /* DropDownView.swift in Sources */,
+				88DA2C6329E1968100C4A315 /* BrandedUIView.swift in Sources */,
 				88CDC74629DC51B500F2FACF /* AppDelegate.swift in Sources */,
+				88DA2C6529E1C11400C4A315 /* String+Extension.swift in Sources */,
+				88DA2C5D29E1755100C4A315 /* DmartColors.swift in Sources */,
+				88DA2C5B29E174D000C4A315 /* UIColor+Extension.swift in Sources */,
+				88DA2C6129E190FD00C4A315 /* UIView+Extension.swift in Sources */,
 				88CDC74829DC51B600F2FACF /* SceneDelegate.swift in Sources */,
+				88CDC75C29DC530500F2FACF /* Component.swift in Sources */,
+				88CDC76E29DC8A5D00F2FACF /* ImageCell.swift in Sources */,
+				887DF4A329DFB2440004BF72 /* GridCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -285,13 +413,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = F586945Z48;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Project2/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen.storyboard;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -313,13 +442,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = F586945Z48;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Project2/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen.storyboard;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
